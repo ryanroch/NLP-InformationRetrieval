@@ -1,0 +1,12 @@
+---
+:id: 141675854
+:submitters:
+- :name: Ryan Rochmanofenna
+  :email: rr3758@nyu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-18 03:07:07.624671000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-17 20:07:07.624671000 Z
+:status: processed
+:score: 10.0
